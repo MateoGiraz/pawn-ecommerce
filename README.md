@@ -3,7 +3,7 @@
 El objetivo de este proyecto fue la creación de una REST API para un Ecommerce de una tienda de ropa. Hicimos uso de un repositorio remoto GIT para trabajar de forma autónoma, e hicimos empleo de Git Flow para gestionar nuestro trabajo. Para el fusionamiento usamos Pull Requests. Implementamos un tablero de kanban en Jira como herramienta ágil de gestión de proyectos. Desarrollamos utilizando la metodología TDD para toda la funcionalidad y logramos mantener una alta cobertura de código en todo el proyecto. La documentación se desarrolla según el modelo de vistas 4 + 1.
 
 
-La REST API puede accederse via http://pawn-ecommerce.somee.com/api.
+La REST API puede accederse via http://pawn-ecommerce.somee.com/api. Su documentación está disponible [aquí](https://github.com/MateoGiraz/pawn-ecommerce/blob/main/back/README.md).
 
 # Vista Lógica (Logical View):
 
